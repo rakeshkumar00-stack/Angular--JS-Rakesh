@@ -1,2 +1,9 @@
-[1](welocome.html)
-[2](index.html)
+Hey There is CALCULATOR!!!
+
+To OPEN tap on CALCULATOR!!
+
+[CALCULATOR](Html Example)
+
+Try once!!
+
+Rakesh kumar!!
