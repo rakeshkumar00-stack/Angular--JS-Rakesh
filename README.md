@@ -2,7 +2,7 @@ Hey There is CALCULATOR!!!
 
 To OPEN tap on CALCULATOR!!
 
-[CALCULATOR](Html Example)
+[CALCULATOR](Calculator).
 
 Try once!!
 
